@@ -1,0 +1,37 @@
+h2{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+h1{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.row{
+    display: flex;
+    justify-content: space-evenly;
+    width: 50%;
+    align-items: center;
+}
+.equal{
+    display: flex;
+    justify-content: center;
+    margin-top: 2rem;
+}
+button{
+    padding: 0.5rem 2rem;
+    cursor: pointer;
+}
+.green{
+    background-color: green;
+    color: white;
+}
+.red{
+    background-color: red;
+    color: white;
+}
+.blue{
+    background-color: blue;
+    color: white;
+}
